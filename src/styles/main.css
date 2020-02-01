@@ -1,4 +1,4 @@
-@import url("./0-Generic/_0-generic.css");
+@import url("../src/styles/0-Generic/_0-generic.css");
 @import url("./1-Elements/_1-element.css");
 @import url("./2-Objects/_2-objects.css");
 @import url("./3-Components/_3-components.css");
